@@ -81,7 +81,15 @@ python opencood/tools/inference_simple.py --model_dir #your_INSTINCT_path
 The main checkpoints can be downloaded [coming soon](https://drive.google.com), and then save them in the `opencood/logs` directory. Note that our checkpoints rely on `spconv=2.3.6`.
 
 ## Citation
-
+```
+@inproceedings{xu2025instinct,
+  title={INSTINCT: Instance-Level Interaction Architecture for Query-Based Collaborative Perception},
+  author={Xu, Yunjiang and Li, Lingzhi and Wang, Jin and Ouyang, Yupeng and Yang, Benyuan},
+  booktitle={Proceedings of the IEEE/CVF International Conference on Computer Vision},
+  pages={25464--25473},
+  year={2025}
+}
+```
 
 ## Acknowledgements
 
