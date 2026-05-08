@@ -139,6 +139,8 @@ logs/
 dataset
 opencood/logs
 ./vscode
+.claude
+CLAUDE.md
 feature_visualizations
 feature_visualizations_discrete
 feature_vis_heatmap
